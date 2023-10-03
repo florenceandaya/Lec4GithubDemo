@@ -7,6 +7,8 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     //Made some changes locally the following week
+
+    //Another change from remote
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
